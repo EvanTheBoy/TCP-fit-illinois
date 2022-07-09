@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf84efb4-53f6-44cf-a991-6c3035bafe61": {
+      "ProjectGuid": "cf84efb4-53f6-44cf-a991-6c3035bafe61",
+      "DisplayName": "TCP-fit",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
